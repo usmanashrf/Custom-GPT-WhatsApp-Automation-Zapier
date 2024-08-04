@@ -32,4 +32,4 @@ Access the Custom GPTs Section:
 Once logged in, click on your profile avatar icon located in the top-right corner of the page.
 From the dropdown menu, select the “My GPTs” option.
 
-![My GPTs](./images/MyGPts.png)
+![My GPTs](./images/MyGPTs.png)
