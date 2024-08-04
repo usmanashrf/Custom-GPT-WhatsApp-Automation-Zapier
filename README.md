@@ -130,3 +130,10 @@ Now that you have obtained your API key from 2Chat, you can integrate 2Chat with
  - **Configure the 2Chat Action:**
 Choose Action Event: After selecting 2Chat, you will be prompted to choose an action event.
 Select “Send Text Message” as the action event.
+
+<p align="center">
+  <img src="./images/step1.png" alt="step1">
+	
+<img src="./images/step2.png" alt="step2" >
+<img src="./images/step3.png" alt="step3" >
+</p>
