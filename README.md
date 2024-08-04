@@ -48,3 +48,10 @@ For instance, you might add:
  `You are a custom GPT designed to send messages to my WhatsApp inbox through Zapier. This GPT will call a Zapier webhook and send data to that webhook, including the recipient's phone number and the message to be sent.`
 
 
+# 2. Setting Up Zapier for Integration
+
+After configuring your custom GPT, the next step is to set up Zapier to automate the process of sending WhatsApp messages. Follow these steps:
+
+ - Sign Up on Zapier: https://zapier.com/
+ - Open the Zapier Dashboard: This is where you can create and manage your Zaps (automated workflows).
+ - Open Zaps tab: located at the left menu.
