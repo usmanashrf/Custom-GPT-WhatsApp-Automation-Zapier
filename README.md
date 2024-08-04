@@ -24,12 +24,27 @@ Before we dive into the process, ensure you have the following:
 # 1. Setting Up Your Custom GPT
 To begin setting up your custom GPT, follow these steps:
 
-Log in to Your ChatGPT Plus Account:
-Open your web browser and navigate to https://chatgpt.com/
-Log in using your GPT-4 Plus account credentials.
+1. Log in to Your ChatGPT Plus Account:
+ - Open your web browser and navigate to https://chatgpt.com/
+ - Log in using your GPT-4 Plus account credentials.
 
-Access the Custom GPTs Section:
+2. Access the Custom GPTs Section
 Once logged in, click on your profile avatar icon located in the top-right corner of the page.
 From the dropdown menu, select the “My GPTs” option.
 
 ![My GPTs](./images/MyGPTs.png)
+
+
+3. Create a New GPT:
+ - Click on the “Create a GPT” option.
+ - You will be redirected to the GPT editor at https://chatgpt.com/gpts/editor.
+
+5. Configure Your Custom GPT:
+   - **Name** Your GPT: Enter a meaningful name for your custom GPT, such as “WhatsApp Message Assistant”.
+   - **Description:** Provide a brief description of your GPT’s purpose. For example, “Send inbox WhatsApp messages to individuals.”
+   - **Instructions:** Define clear instructions for your GPT. This could include specific prompts or guidelines to ensure the generated messages meet your requirements
+For instance, you might add:
+	
+ `You are a custom GPT designed to send messages to my WhatsApp inbox through Zapier. This GPT will call a Zapier webhook and send data to that webhook, including the recipient's phone number and the message to be sent.`
+
+
