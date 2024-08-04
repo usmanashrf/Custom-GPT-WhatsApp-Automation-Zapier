@@ -109,3 +109,24 @@ After configuring your custom GPT, the next step is to set up Zapier to automate
  - API Access Tab: Click on the “API Access” tab.
  - Get API Key: Here, you will find your API key, which will be used to integrate 2Chat with Zapier.
 
+<p align="center">
+  1
+  <img src="./images/tchat2.png" alt="tchat2" width="45%">
+	
+  2
+<img src="./images/apikey.png" alt="2chat" width="45%">
+</p>
+
+
+# 4. Integrate 2Chat with Zapier
+
+Now that you have obtained your API key from 2Chat, you can integrate 2Chat with Zapier and configure the action to send WhatsApp messages. Follow these steps:
+
+ - **Add Action in Zapier:**
+   Go back to your Zapier dashboard where you created the new Zap.
+ - **Select 2Chat as the Action App:**
+   In the “Action” section of your Zap, click on the “Choose App & Event” field.
+   Search for “2Chat” and select it from the list of available apps.
+ - **Configure the 2Chat Action:**
+Choose Action Event: After selecting 2Chat, you will be prompted to choose an action event.
+Select “Send Text Message” as the action event.
