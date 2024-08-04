@@ -103,3 +103,9 @@ After configuring your custom GPT, the next step is to set up Zapier to automate
 <img src="./images/whatsapp.png" alt="whatsapp" width="45%">
 
 
+### Obtain Your API Key:
+ - Access Your Profile: Click on your profile avatar icon in 2Chat.
+ - Open Profile Page: Navigate to the profile page.
+ - API Access Tab: Click on the “API Access” tab.
+ - Get API Key: Here, you will find your API key, which will be used to integrate 2Chat with Zapier.
+
