@@ -87,8 +87,16 @@ After configuring your custom GPT, the next step is to set up Zapier to automate
 
 - before setting the next action on Zaiper you have to set up your 2chat account
 
+---
 
 #  3. Setting Up Your 2Chat Account
  - Sign Up on 2Chat  https://app.2chat.io/
  - Open the 2Chat Dashboard
  - Click on the “Channels” tab in the dashboard
+
+<img src="./images/tchat.png" alt="web2" width="85%">
+
+- Enter Your WhatsApp Number and Name: Provide your WhatsApp number and a name for the channel.
+- Press Add and Connect: Click the “Add and Connect” button to proceed.
+- Scan QR Code: 2Chat will display a QR code. Open WhatsApp on your phone, go to the settings menu, select “Linked Devices,” and scan the QR code to connect your WhatsApp with 2Chat.
+  
