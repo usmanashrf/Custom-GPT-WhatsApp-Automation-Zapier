@@ -32,8 +32,7 @@ To begin setting up your custom GPT, follow these steps:
 Once logged in, click on your profile avatar icon located in the top-right corner of the page.
 From the dropdown menu, select the “My GPTs” option.
 
-![My GPTs](./images/MyGPTs.png)
-
+<img src="./images/MyGPTs.png" alt="MyGPTs" width="45%">
 
 3. Create a New GPT:
  - Click on the “Create a GPT” option.
@@ -57,19 +56,19 @@ After configuring your custom GPT, the next step is to set up Zapier to automate
  - Open the Zapier Dashboard: This is where you can create and manage your Zaps (automated workflows).
  - Open Zaps tab: located at the left menu.
 
-![zaptab](./images/zaptab.png)
+<img src="./images/zaptab.png" alt="zaptab" width="45%">
 
 ---
 
 - #### Create a New Zap: Click on the “Create” button, this will start the process of creating a new automated workflow.
   
-![createzap](./images/createzap.png)
+<img src="./images/createzap.png" alt="createzap" width="45%">
 
 ---
 
 #### Once new Zap windows open then you have two options on screen first one will be Trigger and the second will be Action
 
-![zap1](./images/zap1.png)
+<img src="./images/zap1.png" alt="zap1" width="45%">
 
 ---
 
@@ -79,5 +78,17 @@ After configuring your custom GPT, the next step is to set up Zapier to automate
  - Click “Continue” and follow the instructions to set up and test your trigger.
  - copy this URL your GPT will use this to call your Zaiper's Zap
 
+<p align="center">
+  1
+  <img src="./images/web1.png" alt="web1" width="45%">
+  2
+<img src="./images/web2.png" alt="web2" width="45%">
+</p>
+
+- before setting the next action on Zaiper you have to set up your 2chat account
 
 
+#  3. Setting Up Your 2Chat Account
+ - Sign Up on 2Chat  https://app.2chat.io/
+ - Open the 2Chat Dashboard
+ - Click on the “Channels” tab in the dashboard
