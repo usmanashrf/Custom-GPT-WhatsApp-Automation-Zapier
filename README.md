@@ -99,4 +99,7 @@ After configuring your custom GPT, the next step is to set up Zapier to automate
 - Enter Your WhatsApp Number and Name: Provide your WhatsApp number and a name for the channel.
 - Press Add and Connect: Click the “Add and Connect” button to proceed.
 - Scan QR Code: 2Chat will display a QR code. Open WhatsApp on your phone, go to the settings menu, select “Linked Devices,” and scan the QR code to connect your WhatsApp with 2Chat.
-  
+
+<img src="./images/whatsapp.png" alt="whatsapp" width="45%">
+
+
