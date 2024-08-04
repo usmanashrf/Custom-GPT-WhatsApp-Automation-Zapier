@@ -61,10 +61,23 @@ After configuring your custom GPT, the next step is to set up Zapier to automate
 
 ---
 
-- Create a New Zap: Click on the “Create” button, this will start the process of creating a new automated workflow.
+- #### Create a New Zap: Click on the “Create” button, this will start the process of creating a new automated workflow.
   
 ![createzap](./images/createzap.png)
 
-Once new Zap windows open then you have two options on screen first one will be Trigger and the second will be Action
+---
+
+#### Once new Zap windows open then you have two options on screen first one will be Trigger and the second will be Action
+
+![zap1](./images/zap1.png)
+
+---
+
+### Configure the Trigger:
+ - In the “Choose App & Event” section, select the app that will trigger the workflow. For example, you might choose “Webhook” if you’re triggering the workflow via a webhook from your custom GPT.
+ - Event: Select the event that will trigger the Zap. For webhooks, you can select “Catch Hook” to capture data sent to a unique URL.
+ - Click “Continue” and follow the instructions to set up and test your trigger.
+ - copy this URL your GPT will use this to call your Zaiper's Zap
+
 
 
