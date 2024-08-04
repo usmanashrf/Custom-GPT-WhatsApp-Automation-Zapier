@@ -137,3 +137,10 @@ Select “Send Text Message” as the action event.
 <img src="./images/step2.png" alt="step2" >
 <img src="./images/step3.png" alt="step3" >
 </p>
+
+ - **Connect Your 2Chat Account:**
+   Click on “Sign in to 2Chat” to connect your 2Chat account with Zapier.
+   When prompted, enter the API key you obtained from the 2Chat profile page.
+
+
+   
