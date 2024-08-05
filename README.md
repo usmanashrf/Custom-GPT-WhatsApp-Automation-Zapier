@@ -95,7 +95,13 @@ After configuring your custom GPT, the next step is to set up Zapier to automate
  - Click on the “Create New Action” button. This will open a new screen.
  - Paste your Zapier webhook schema with the desired webhook input parameters.
 
-here os the schema
+<p align="center">
+  <img src="./images/inte-gpt.png" alt="int-gpt" width="45%">
+<img src="./images/schema.png" alt="schema" width="45%">
+</p>
+
+
+**Here is the schema**
 
 ```
 {
@@ -165,6 +171,11 @@ here os the schema
   }
 }
 ```
+
+---
+
+Once you call this webhook from GPT, you’ll receive values in your webhook similar to the example images provided
+
 
 
 - before setting the next action on Zaiper you have to set up your 2chat account
