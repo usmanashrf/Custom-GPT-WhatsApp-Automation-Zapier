@@ -139,8 +139,12 @@ Select “Send Text Message” as the action event.
 </p>
 
  - **Connect Your 2Chat Account:**
-   Click on “Sign in to 2Chat” to connect your 2Chat account with Zapier.
-   When prompted, enter the API key you obtained from the 2Chat profile page.
+- Click on “Sign in to 2Chat” to connect your 2Chat account with Zapier.
 
-
+ <img src="./images/sign.png" alt="sign" width="45%" >
+  
+  ---
    
+- When prompted, enter the API key you obtained from the 2Chat profile page.
+
+<img src="./images/key.png" alt="key" width="45%">
