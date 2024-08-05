@@ -265,3 +265,8 @@ Select “Send Text Message” as the action event.
 
 <img src="./images/publish.png" alt="publish" width="45%">
 
+
+- **Activate Your Zap:**
+  - Once the action is configured correctly and the test was successful, click “Publish Zap” to activate it.
+
+<img src="./images/zappub.png" alt="publish" width="45%">
