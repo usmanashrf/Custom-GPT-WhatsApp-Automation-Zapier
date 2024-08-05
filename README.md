@@ -270,3 +270,20 @@ Select “Send Text Message” as the action event.
   - Once the action is configured correctly and the test was successful, click “Publish Zap” to activate it.
 
 <img src="./images/zappub.png" alt="publish" width="45%">
+
+
+# 4. Publish and Use Your Custom GPT
+
+After setting up and integrating your custom GPT with Zapier and 2Chat, the final step is to publish your custom GPT and test it by sending a message. Follow these steps:
+
+Publish Your Custom GPT:
+   - Go back to the custom GPT screen in ChatGPT.
+   - Review all the settings, instructions, and configurations to ensure everything is correctly set up.
+   - Click on the “Publish” button to make your custom GPT live.
+Test Your Custom GPT:
+   - Once your GPT is published, it’s time to test it by sending a message.
+   - Provide a prompt to your custom GPT that includes the message content and the recipient’s phone number. For example:
+
+ ```
+Send a message to +1234567890 saying "Hello, this is a test message from my custom GPT!"
+```
