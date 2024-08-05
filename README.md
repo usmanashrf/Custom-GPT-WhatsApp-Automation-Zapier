@@ -272,7 +272,7 @@ Select “Send Text Message” as the action event.
 <img src="./images/zappub.png" alt="publish" width="45%">
 
 
-# 4. Publish and Use Your Custom GPT
+# 5. Publish and Use Your Custom GPT
 
 After setting up and integrating your custom GPT with Zapier and 2Chat, the final step is to publish your custom GPT and test it by sending a message. Follow these steps:
 
