@@ -176,7 +176,10 @@ After configuring your custom GPT, the next step is to set up Zapier to automate
 
 Once you call this webhook from GPT, you’ll receive values in your webhook similar to the example images provided
 
-
+<p align="center">
+  <img src="./images/sendquery.png" alt="sendquery" width="45%">
+<img src="./images/receivedval.png" alt="receivedval" width="45%">
+</p>
 
 - before setting the next action on Zaiper you have to set up your 2chat account
 
