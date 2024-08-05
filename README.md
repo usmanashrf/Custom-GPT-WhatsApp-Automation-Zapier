@@ -213,6 +213,7 @@ Once you call this webhook from GPT, you’ll receive values in your webhook sim
 <img src="./images/apikey.png" alt="2chat" width="45%">
 </p>
 
+---
 
 # 4. Integrate 2Chat with Zapier
 
@@ -271,6 +272,7 @@ Select “Send Text Message” as the action event.
 
 <img src="./images/zappub.png" alt="publish" width="45%">
 
+---
 
 # 5. Publish and Use Your Custom GPT
 
